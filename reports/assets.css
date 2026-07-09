@@ -1,0 +1,31 @@
+body {
+    background-color: #c0cfff;
+    color: #222222;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    background-color: #005a9c;
+    color: white;
+}
+
+td {
+    color: #222222;
+}
+
+.passed {
+    color: green;
+    font-weight: bold;
+}
+
+.failed {
+    color: red;
+    font-weight: bold;
+}
+
+.log {
+    color: #333333;
+}
