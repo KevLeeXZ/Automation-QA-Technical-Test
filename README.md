@@ -1,5 +1,6 @@
 # Automation-QA-Technical-Test
 Public Repo for Automation QA Technical Test based on XYZ Bank Application
+Using Selenium with Pytest framework
 
 ## Installation
 Clone the repository
